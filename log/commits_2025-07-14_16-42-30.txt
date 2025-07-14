@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+e4719a5 - GitHub Actions, 15 minutes ago : Auto: Add latest commits log
+58e66ae - GitHub Actions, 29 minutes ago : Auto: Add latest commits log
+339d4a8 - Oriol, 30 minutes ago : Update commit_logger.yml
